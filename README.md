@@ -29,13 +29,13 @@ Customer and Transaction Analysis: Break down the number of customers and transa
 Dashboard Finalization:
 
 Build a high-level dashboard combining all analyses, with filters to view specific segments.
-Technologies Used
+Technologies Used--
 Power BI: For data modeling, transformation, and visualization.
 DAX (Data Analysis Expressions): To create calculated fields for custom insights.
 
-Results
+Results :
 This project delivers a Power BI dashboard providing an in-depth look at retail performance by various dimensions, useful for identifying trends and making data-driven decisions.
 
-Contributing
+Contributing : 
 Contributions are welcome! Please fork the repository, create a new branch, and submit a pull request.
 
