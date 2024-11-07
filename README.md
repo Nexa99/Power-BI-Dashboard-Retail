@@ -1,13 +1,13 @@
 # Power BI Retail Dashboard Exercise
 This repository contains a Power BI project designed to build a retail analytics dashboard by integrating and analyzing multiple data sources. The aim is to create insightful visualizations for business decision-making, leveraging DAX and Power BI’s data modeling features.
 
-Project Overview
+Project Overview : 
 The goal of this exercise is to manage data from multiple sources and define relationships across tables to enable an analytical dashboard. The dashboard provides insights such as total revenue, weekly and monthly trends, customer behavior, and product performance across various dimensions like city and zone.
 
-Business Context
+Business Context : 
 In this exercise, you are tasked with analyzing retail data from four distinct files. The data covers various aspects of retail performance, such as sales, returns, and geographic segmentation. By defining relationships and creating calculated fields, you’ll produce a comprehensive view of business performance.
 
-Key Tasks
+Key Tasks --
 Data Loading:
 
 Import four data tables into Power BI, ensuring headers align with field names.
